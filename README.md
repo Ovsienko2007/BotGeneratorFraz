@@ -17,7 +17,7 @@
 ### 8) pip install -r requirements.txt
 ### 9) запустить бота Бот-генератор_фраз.exe
 
-##Технологии
+## Технологии
 ### * Python 3.10
 ### * PyTelegramBotAPI (TeleBot)
 ### * requests
