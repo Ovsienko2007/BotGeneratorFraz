@@ -12,9 +12,6 @@
 ####    Токен будет в разделе[My Account](https://api-ninjas.com/profile)
 ### 5) Вставить ключ в API_kluchi.txt
 ####    API_Key: 'Ваш ключ апи'
-### 6) python -m venv ./venv
-### 7) ./venv/Scripts/activate
-### 8) pip install -r requirements.txt
 ### 9) запустить бота Бот-генератор_фраз.exe
 
 ## Технологии
