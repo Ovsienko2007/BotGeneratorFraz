@@ -12,10 +12,14 @@ c=['age','alone','amazing','anger','architecture','art','attitude','beauty','bes
    'learning','legal','life','love','marriage','medical','men','mom','money','morning','movies','success']
 
 #___________________________________________цитата__________________________________________________________
-def quotes(category =c[randint(0,66)]):
+def quotes(category):
+    # автовыбор категории
+    if category=='любое':
+        category = c[randint(0, 66)]
     # получение ключа из файла
-    x = open('API_anekdot.txt', 'r')
-    API_KEY = x.readline()[9:]
+    x = open('API_kluchi.txt', 'r')
+    API_KEY = x.readline()[9:-1]
+
 
     #получение цитаты
 
@@ -24,6 +28,7 @@ def quotes(category =c[randint(0,66)]):
     l=query.text[1:-2]
 
     n = [i for i in l.split()]
+
 
     i = n[n.index('{"quote":') + 1:n.index('"author":')]
 
@@ -66,4 +71,4 @@ def anekdot():
 if __name__ == '__main__':
     print(anekdot())
     print('__________________________________________________________')
-    print(quotes())
+    print(quotes('любое'))
