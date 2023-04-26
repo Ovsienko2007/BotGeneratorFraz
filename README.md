@@ -5,7 +5,9 @@
 
 
 1). Склонировать репозиторий git clone
+
 2). Создать бота в [BotFather](https://t.me/botfatherи), получить токен
+
 3). Вставить токен в API_kluchi.txt
 
 4). Зарегистрироватьс на [api-ninjas](https://api-ninjas.com/)
