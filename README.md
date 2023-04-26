@@ -2,7 +2,7 @@
 Бот который генерирует цитаты и анекдоты
 
 
-
+![Иллюстрация к проекту](https://github.com/Ovsienko2007/BotGeneratorFraz/blob/master/pictures/2.PNG)
 ## Установка
 ###+ Склонировать репозиторий git clone
 ###+ Создать бота в [BotFather](https://t.me/botfatherи), получить токен
