@@ -7,7 +7,7 @@
 1). Склонировать репозиторий git clone
 
 2). Создать бота в [BotFather](https://t.me/botfatherи), получить токен
-
+![Иллюстрация к проекту](https://github.com/Ovsienko2007/BotGeneratorFraz/blob/master/pictures/3.PNG)
 3). Вставить токен в API_kluchi.txt
 
 4). Зарегистрироватьс на [api-ninjas](https://api-ninjas.com/)
@@ -23,10 +23,18 @@
 8). Запустить бота Бот-генератор_фраз.exe
 
 ## Технологии
-###* Python 3.10
-###* PyTelegramBotAPI (TeleBot)
-###* requests
-###* api-ninjas
+
+Python 3.10
+
+PyTelegramBotAPI (TeleBot)
+
+requests
+
+api-ninjas
+
+## Пример работы
+![Иллюстрация к проекту](https://github.com/Ovsienko2007/BotGeneratorFraz/blob/master/pictures/4.PNG)
+![Иллюстрация к проекту](https://github.com/Ovsienko2007/BotGeneratorFraz/blob/master/pictures/5.PNG)
 
 ## Автор
 ### Овсиекно Глеб
