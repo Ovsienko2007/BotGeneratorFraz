@@ -13,7 +13,7 @@
 4). Зарегистрироватьс на [api-ninjas](https://api-ninjas.com/)
 ![Иллюстрация к проекту](https://github.com/Ovsienko2007/BotGeneratorFraz/blob/master/pictures/1.PNG)
 
-5). Скопировать токен
+5). Скопировать ключ
 ![Иллюстрация к проекту](https://github.com/Ovsienko2007/BotGeneratorFraz/blob/master/pictures/2.PNG)
 
 6). Вставить ключ в API_kluchi.txt
