@@ -1,18 +1,20 @@
 # BotGeneratorFraz
 Бот который генерирует цитаты и анекдоты
 
-
-![Иллюстрация к проекту](https://github.com/Ovsienko2007/BotGeneratorFraz/blob/master/pictures/2.PNG)
 ## Установка
-###+ Склонировать репозиторий git clone
-###+ Создать бота в [BotFather](https://t.me/botfatherи), получить токен
-###+ Вставить токен в API_kluchi.txt
-####     Bot_token: 'Токен бота'
-###+ Зарегистрироватьс на [api-ninjas](https://api-ninjas.com/)
-####    Токен будет в разделе[My Account](https://api-ninjas.com/profile)
-###+ Вставить ключ в API_kluchi.txt
-####    API_Key: 'Ваш ключ апи'
-###+ запустить бота Бот-генератор_фраз.exe
+
+
+1). Склонировать репозиторий git clone
+2). Создать бота в [BotFather](https://t.me/botfatherи), получить токен
+3). Вставить токен в API_kluchi.txt
+
+4). Зарегистрироватьс на [api-ninjas](https://api-ninjas.com/)
+![Иллюстрация к проекту](https://github.com/Ovsienko2007/BotGeneratorFraz/blob/master/pictures/1.PNG)
+5). Скопировать токен
+![Иллюстрация к проекту](https://github.com/Ovsienko2007/BotGeneratorFraz/blob/master/pictures/2.PNG)
+6). Вставить ключ в API_kluchi.txt
+7). API_Key: 'Ваш ключ апи'
+8). Запустить бота Бот-генератор_фраз.exe
 
 ## Технологии
 ###* Python 3.10
