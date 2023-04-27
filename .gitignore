@@ -1,3 +1,2 @@
-/.venv
-/__pycache__
-/pictures
+.venv/
+__pycache__/
