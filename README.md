@@ -24,7 +24,16 @@
 
 7). API_Key: 'Ваш ключ апи'
 
-8). Запустить бота Бот-генератор_фраз.exe
+8). Запускаем командную строку линукса. [Скачать здесь](https://gitforwindows.org/)
+
+.. Пишем команды:
+
+ ..+ python -m venv ./venv
+ 
+ ..+ source ./venv/Scripts/activate
+ 
+ ..+pip install -r requirements.txt
+
 
 ## Технологии
 
