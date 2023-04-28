@@ -26,11 +26,11 @@
 
 8). Запускаем командную строку линукса. [Скачать здесь](https://gitforwindows.org/)
 
-.. Пишем команды:
+..Пишем команды:
 
- ..+ python -m venv ./venv
+ ..+python -m venv ./venv
  
- ..+ source ./venv/Scripts/activate
+ ..+source ./venv/Scripts/activate
  
  ..+pip install -r requirements.txt
 
