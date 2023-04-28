@@ -34,7 +34,7 @@
 
 7). API_Key: 'Ваш ключ апи'
 
-8). Запускаем командную строку линукса. [Скачать здесь](https://gitforwindows.org/)
+8). Запускаем командную строку Линукса. [Скачать здесь](https://gitforwindows.org/)
 
 Пишем команды:
 
@@ -42,7 +42,7 @@
  
 2).source ./venv/Scripts/activate
  
- 3).pip install -r requirements.txt
+3).pip install -r requirements.txt
 
 
 <a name="Tehn"><h2>Технологии</h2></a>
@@ -56,10 +56,8 @@ requests
 api-ninjas
 
 <a name="prim"><h2>Пример работы</h2></a> 
-## Пример работы
 ![Иллюстрация к проекту](https://github.com/Ovsienko2007/BotGeneratorFraz/blob/master/pictures/4.PNG)
 ![Иллюстрация к проекту](https://github.com/Ovsienko2007/BotGeneratorFraz/blob/master/pictures/5.PNG)
 
 <a name="avt"><h2>Автор</h2></a>
-## Автор
 Овсиекно Глеб
