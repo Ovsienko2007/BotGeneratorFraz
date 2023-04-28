@@ -2,7 +2,17 @@
 
 Бот который генерирует цитаты и анекдоты
 
-## Установка
+## Содержание
+[Установка](#Ystanovka)
+
+[Технологии](#Tehn)
+
+[Пример](#prim)
+
+[Автор](#avt)
+
+
+<a name="Ystanovka"><h2>Установка</h2></a>
 
 1). Склонировать репозиторий git clone
 
@@ -26,16 +36,16 @@
 
 8). Запускаем командную строку линукса. [Скачать здесь](https://gitforwindows.org/)
 
-   Пишем команды:
+Пишем команды:
 
-   python -m venv ./venv
+1).python -m venv ./venv
  
-   source ./venv/Scripts/activate
+2).source ./venv/Scripts/activate
  
-   pip install -r requirements.txt
+ 3).pip install -r requirements.txt
 
 
-## Технологии
+<a name="Tehn"><h2>Технологии</h2></a>
 
 Python 3.10
 
@@ -45,9 +55,11 @@ requests
 
 api-ninjas
 
+<a name="prim"><h2>Пример работы</h2></a> 
 ## Пример работы
 ![Иллюстрация к проекту](https://github.com/Ovsienko2007/BotGeneratorFraz/blob/master/pictures/4.PNG)
 ![Иллюстрация к проекту](https://github.com/Ovsienko2007/BotGeneratorFraz/blob/master/pictures/5.PNG)
 
+<a name="avt"><h2>Автор</h2></a>
 ## Автор
-### Овсиекно Глеб
+Овсиекно Глеб
